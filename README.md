@@ -4,4 +4,5 @@ this is added in local server
 this is added line second in local server
 this is line edited in remote server
 
-this is added to check merge conflict in local server
+
+merge conflict is resolved manually
